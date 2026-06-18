@@ -1,0 +1,21 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Служебные файлы
+.env
+*.log
+*.tmp
+
+# Сборка
+Cargo.lock
